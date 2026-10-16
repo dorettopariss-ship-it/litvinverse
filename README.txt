@@ -26,3 +26,6 @@
 Общий чат встроен через внешний сервис tlk.io, канал: https://tlk.io/litvinverse-danax. Никакие ключи и настройки Supabase для чата не нужны; посетители просто вводят ник в самом чате. Чат общий для всех, кто откроет эту комнату, и зависит от доступности tlk.io. Это публичная комната: не отправляйте пароли, адреса и другие личные данные. Онлайн-режим бомбочек по-прежнему отдельно требует Supabase.
 
 Обновление: загрузи замену index.html в корень репозитория GitHub, затем дождись публикации Vercel. sounds.html оставь рядом с index.html.
+
+
+LitvinVERSE 2.5 chat update: public guest chat embed switched to klaklak.com. Visitors choose a nickname; no registration. If embedded chat is blocked, use the open-chat link in the page. External service availability is not controlled by this site.
