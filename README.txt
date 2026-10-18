@@ -1,3 +1,3 @@
-LitvinVERSE birthday update
-Upload index.html, sounds.html and birthday-casino.png together to the root of your Vercel/GitHub project.
-The birthday section has falling candy and a guaranteed three-candy animation. +500 coins are credited once per browser using localStorage. This is a client-side game reward, not a shared server-side balance.
+LitvinVERSE 2.7 — добавлены автономные мини-игры: динозаврик-раннер, память, змейка и тетрис.
+Установка: загрузите index.html, sounds.html и birthday-casino.png в корень репозитория Vercel.
+Игры работают локально в браузере без регистрации и без внешних сервисов.
